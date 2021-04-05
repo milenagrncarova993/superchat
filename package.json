@@ -11,10 +11,12 @@
     "firebase-admin": "^9.6.0",
     "firebase-functions": "^3.13.2",
     "react": "^17.0.2",
+    "react-bootstrap": "^1.5.2",
     "react-dom": "^17.0.2",
     "react-firebase-hooks": "^3.0.3",
     "react-router": "^5.2.0",
-    "react-scripts": "4.0.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
     "stable": "^0.1.8",
     "web-vitals": "^1.1.1"
   },
